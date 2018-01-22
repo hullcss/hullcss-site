@@ -1,0 +1,25 @@
+###########
+# site.url, site.title
+
+title: '#hullCSS'
+
+########
+# more settings
+
+markdown: kramdown
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+
+
+exclude:
+- README.md
+
+
+safe: true
+lsi: false
+
+plugins:
+  - jekyll-seo-tag
