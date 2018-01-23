@@ -2,7 +2,7 @@
 layout: page
 title:  'About'
 permalink: '/about'
-description: 'Who are #hullCSS? We're the Computer Science at the University of Hull, looking to make the lives of students more exciting and expand technology beyond the course.' 
+description: "Who are #hullCSS? We're the Computer Science at the University of Hull, looking to make the lives of students more exciting and expand technology beyond the course."
 ---
 
 We're not just #hullCSS, we're <br>
