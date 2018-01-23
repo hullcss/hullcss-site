@@ -8904,6 +8904,12 @@ body {
     -webkit-animation: blink-animation 0.8s steps(5, start) infinite;
 }
 
+@keyframes blink-animation{
+  to{visibility:hidden}}
+
+@-webkit-keyframes blink-animation{
+  to{visibility:hidden}}
+
 .titlehome {
     font-family: 'roboto mono';
     font-weight: 500;
