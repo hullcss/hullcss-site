@@ -8900,8 +8900,8 @@ body {
 }
 
 .blink {
-    animation: blink-animation 0.8s steps(5, start) infinite;
-    -webkit-animation: blink-animation 0.8s steps(5, start) infinite;
+    animation: blink-animation 1.5s steps(5, start) infinite;
+    -webkit-animation: blink-animation 1.5s steps(5, start) infinite;
 }
 
 @keyframes blink-animation{
@@ -8943,4 +8943,8 @@ body {
 
 .card-header.white {
   color: #000000;
+}
+
+.grid-33 {
+  padding-bottom: 20px;
 }

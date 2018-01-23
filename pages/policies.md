@@ -2,6 +2,7 @@
 layout: page
 title:  'Policies'
 permalink: '/policies'
+description: 'Legal policies and jargon to do with the use of this website, hullcss.org, not a particularly compelling read'
 ---
 
 <span class="bigtext-slogan-thing">here's the legal stuff</span>

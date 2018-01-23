@@ -2,6 +2,7 @@
 layout: page
 title:  'Contact'
 permalink: '/contact'
+description: "Contact hullCSS whether you're a member or wanting to become one, are looking for interns or students to work with you or to become a partner, or for anything else"
 ---
 
 <div class="grid-containter">
