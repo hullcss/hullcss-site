@@ -31,12 +31,11 @@ Providing engaging and academically supporting activities and events for student
   <div class="card-header white">The Team: </div>
   <div class="card-body text-secondary">
     <p class="card-text">
-    <b>Josh</b> - President <br>
-    <b>Harry</b> - <br>
-    <b>Nathaniel</b> - Social and Outreach <br>
-    <b>Jed</b> - <br>
-    <b>William</b> - <br>
-
+    <b>Harry Gwinnell</b> - President <br>
+    <b>Nathaniel Read - Secretary</b> - <br>
+    <b>Daniel Tregoiing</b> - Treasurer<br>
+    <b>Alexander Whitehead</b> - Social Officer<br>
+    <b>Sam Hutchinson</b> - Outreach Officer<br>
     </p>
   </div>
 </div>
