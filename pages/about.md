@@ -30,13 +30,28 @@ Providing engaging and academically supporting activities and events for student
 <div class="card mb-2" style="max-width: 20rem;">
   <div class="card-header white">The Team: </div>
   <div class="card-body text-secondary">
-    <p class="card-text">
-    <b>Harry Gwinnell</b> - President <br>
-    <b>Nathaniel Read - Secretary</b> - <br>
-    <b>Daniel Tregoiing</b> - Treasurer<br>
-    <b>Alexander Whitehead</b> - Social Officer<br>
-    <b>Sam Hutchinson</b> - Outreach Officer<br>
-    </p>
+    <table>
+      <tr>
+        <td class="font-weight-bold text-right">President</td>
+        <td class="pl-2"><a href="https://harrygwinnell.co.uk/" target="_blank">Harry Gwinnell</a></td>
+      </tr>
+      <tr>
+        <td class="font-weight-bold text-right">Secretary</td>
+        <td class="pl-2">Nathaniel Read</td>
+      </tr>
+      <tr>
+        <td class="font-weight-bold text-right">Treasurer</td>
+        <td class="pl-2">Daniel Tregoiing</td>
+      </tr>
+      <tr>
+        <td class="font-weight-bold text-right">Social Officer</td>
+        <td class="pl-2">Alexander Whitehead</td>
+      </tr>
+      <tr>
+        <td class="font-weight-bold text-right">Outreach Officer</td>
+        <td class="pl-2">Sam Hutchinson</td>
+      </tr>
+    </table>
   </div>
 </div>
 </div>
