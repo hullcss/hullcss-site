@@ -172,4 +172,8 @@ body {
   font-family: 'roboto mono';
 }
 
+.footergrid {
+  display: none !important;
+}
+
 </style>
