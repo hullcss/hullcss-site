@@ -71,6 +71,12 @@ description: 'The Brand Identity of hullCSS'
         <div class="course">#575757</div>
         </div>
       </div>
+      <div class="column " style="background-color: #8b5ba4;">
+        <div class="textinside bottom">
+        <div class="name">Express</div>
+        <div class="course">#8b5ba4</div>
+        </div>
+      </div>
       <div class="column " style="background-color: #24b4db;">
         <div class="textinside bottom">
         <div class="name">Dawn</div>
