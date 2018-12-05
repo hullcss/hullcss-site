@@ -87,7 +87,17 @@ description: 'The Brand Identity of hullCSS'
 
     <hr class="divider">
 
-    <h3 class="subtitle is-5">Brand Assets</h3>
+    <h3 class="subtitle is-5">Public Logo Brand Assets</h3>
+
+    <div class="container">
+      <div class="notification">
+        Public Logo Brand Assets are available from <i class="fab fa-google-drive"></i> <a href="//drive.google.com/open?id=1n22N8tX8eIY5492P6Ntapy1BNiokZ6Vh">Google Drive</a>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <h3 class="subtitle is-5">Team Only Brand Assets</h3>
 
     <div class="container">
       <div class="notification">
