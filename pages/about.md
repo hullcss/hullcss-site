@@ -41,11 +41,11 @@ Providing engaging and academically supporting activities and events for student
       </tr>
       <tr>
         <td class="font-weight-bold text-right">Treasurer</td>
-        <td class="pl-2">Daniel Tregoiing</td>
+        <td class="pl-2">Adam Tunnicliffe</td>
       </tr>
       <tr>
         <td class="font-weight-bold text-right">Social Officer</td>
-        <td class="pl-2">Alexander Whitehead</td>
+        <td class="pl-2">Eleanor Townsend</td>
       </tr>
       <tr>
         <td class="font-weight-bold text-right">Outreach Officer</td>
