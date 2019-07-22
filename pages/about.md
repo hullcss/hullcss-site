@@ -37,11 +37,11 @@ Providing engaging and academically supporting activities and events for student
       </tr>
       <tr>
         <td class="font-weight-bold text-right">Vice President</td>
-        <td class="pl-2"><a href="https://na.thaniel.uk/" target="_blank">Elle Townsend</a></td>
+        <td class="pl-2"><a href="https://www.elletownsend.co.uk/" target="_blank">Elle Townsend</a></td>
       </tr>
       <tr>
         <td class="font-weight-bold text-right">Treasurer</td>
-        <td class="pl-2"><a href="https://www.elletownsend.co.uk/" target="_blank">Dan Tregoiing</a></td>
+        <td class="pl-2">Dan Tregoiing</td>
       </tr>
       <tr>
         <td class="font-weight-bold text-right">Social</td>
@@ -49,7 +49,7 @@ Providing engaging and academically supporting activities and events for student
       </tr>
       <tr>
         <td class="font-weight-bold text-right">Outreach Officer</td>
-        <td class="pl-2"><a href="https://adamt3d.co,/" target="_blank">Adam Tunicliffe</a></td>
+        <td class="pl-2"><a href="https://adamt3d.com/" target="_blank">Adam Tunicliffe</a></td>
       </tr>
     </table>
   </div>
