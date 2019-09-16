@@ -4,7 +4,7 @@ title: "Say hello 👋🏻 to your new exec"
 categories: comment
 image: "/newexec.jpg"
 description: "We're the exec of #hullCSS for 2019/20 and we thought we'd introduce ourselves to you. Learn a bit more about us, what we get up to and what we're planning for this year"
-date: 2019-07-25-10:00:00Z
+date: 2019-09-16-16:00:00Z
 writer: "Nathaniel Read"
 writer_url: "https://na.thaniel.uk/"
 permalink: "/hello2019"
