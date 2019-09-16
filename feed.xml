@@ -1,0 +1,39 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:webfeeds="http://webfeeds.org/rss/1.0" version="2.0">
+<channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape}}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <webfeeds:icon>{{site.url}}/images/brand/brand-nobg.png</webfeeds:icon>
+    <webfeeds:logo>{{site.url}}/images/brand/brand-nobg.png</webfeeds:logo>
+    <webfeeds:cover image="{{site.url}}/images/brand/brand-nobg.png" />
+    <webfeeds:accentColor>2dc861</webfeeds:accentColor>
+    <webfeeds:related layout="card" target="browser"/>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% for post in site.posts  %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <webfeeds:analytics id="UA-39228941-3" engine="GoogleAnalytics"/>
+        <description>
+        <![CDATA[
+        <img src="{{site.url}}/images/blog{{page.image}}">
+        {{ post.content }}]]></description>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        {% for tag in post.tags %}
+        <category>{{ tag | xml_escape }}</category>
+        {% endfor %}
+        {% for cat in post.categories %}
+        <category>{{ cat | xml_escape }}</category>
+        {% endfor %}
+      </item>
+    {% endfor %}
+  </channel>
+</rss>

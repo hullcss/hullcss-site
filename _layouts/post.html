@@ -1,0 +1,77 @@
+{% include head.html %}
+<body>
+    {% include header.html %}
+    <div class="head-block head-block-blog" style="background:url({{site.url}}/images/blog{{page.image}})">
+      <div class="head-block-text">
+        <div class="head-block-col">
+          <div class="head-block-date">{{ page.date | date: "%-d %B %Y" }}</div>
+
+      <div class="head-block-title">{{page.title}}</div>
+      <br> by <a class="linktoauthor" href="{{page.writer_url}}">{{page.writer}} </a>
+      </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="content">
+        <div class="body-block">
+        {{ content }}
+      </div>
+      </div>
+    </div><!-- /.container -->
+
+{% include footer.html %}
+
+</body>
+</html>
+
+<style>
+.head-block {
+  background-size: cover;
+  background-repeat: no-repeat;
+    width: 100%;
+    min-height: 300px;
+    text-align: center;
+    background-position-y: center;
+}
+
+.head-block-text {
+  padding-top: 100px;
+}
+.head-block-title {
+  font-family: 'roboto mono';
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.head-block-date {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'roboto mono';
+  margin-bottom: 15px;
+}
+
+.head-block-col {
+  background-color: #333;
+  opacity: 0.8;
+  padding: 20px;
+max-width: 500px;
+width: 60%;
+margin: 0 auto;
+}
+
+.body-block {
+  padding: 40px;
+    background-color: #ffffff;
+    padding-top: 40px;
+    border-radius: 3px;
+    color: #000;
+    line-height: 1.4;
+    font-size: 17px;
+    color: #606060;
+}
+
+.linktoauthor {
+  margin-top: -10px;
+    border-bottom: 1px dashed #ffff;
+}
+</style>

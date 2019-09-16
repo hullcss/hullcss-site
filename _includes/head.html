@@ -3,7 +3,12 @@
 <head>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <meta property="og:image" content="{{site.baseurl}}/static/hullcss-long.png" />
+
+   {%if page.layout == "post"%}
+   <meta property="og:image" content="{{site.url}}/images/blog{{page.image}}" />
+   {%else%}
+   <meta property="og:image" content="{{site.url}}/static/hullcss-long.png" />
+   {%endif%}
 
    <link rel="stylesheet" type="text/css" href="{{ site.path }}/css/style.css" >
    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
