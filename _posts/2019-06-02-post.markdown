@@ -6,7 +6,7 @@ image: "/newexec.jpg"
 description: "We're the exec of #hullCSS for 2019/20 and we thought we'd introduce ourselves to you. Learn a bit more about us, what we get up to and what we're planning for this year"
 date: 2019-09-16-16:00:00Z
 writer: "Nathaniel Read"
-writer_url: "https://na.thaniel.uk/"
+writer_url: "https://nathaniel.work/?from=hcssbph"
 permalink: "/hello2019"
 ---
 
@@ -25,7 +25,7 @@ This year we really want to help you make the most of your offline time, and we'
 <h3><b>Nathaniel</b> - President</h3>
 
 I'm Nathaniel 👋🏻, I'm a 3rd year Computer Science student and your new president for this year! My role is to oversee the society as a whole and make sure everything runs smoothly, working with the rest of the exec team to plan events that you'll enjoy and things that you want to get involved in! I've been a part of #hullCSS since it started, as social sec in first year and VP last year. 
-In my spare time I love to write blog posts, build projects and get involved in tech! Away from a screen I'm also a keen hiker and dog walker! <i><a href="//nathaniel.work">Learn more on my blog here</a></i>.
+In my spare time I love to write blog posts, build projects and get involved in tech! Away from a screen I'm also a keen hiker and dog walker! <i><a href="//nathaniel.work/?from=hcssbpbdy">Learn more on my blog here</a></i>.
 </div>
 </div>
 
