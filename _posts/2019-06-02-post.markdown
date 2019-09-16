@@ -76,7 +76,9 @@ I'm Adam, 3rd year Computer Science student and Outreach Officer, I will be resp
 
 <style>
 .post-heads {
-    height: 170px;
+    max-width: 80%;
+    margin: 0 auto;
+    display: block;
     border-radius: 360px;
     margin-right: 30px;
     -webkit-user-select: none;
@@ -84,7 +86,7 @@ I'm Adam, 3rd year Computer Science student and Outreach Officer, I will be resp
     -moz-user-select: none;
     -o-user-select: none;
     user-select: none;
-    padding: 10px;
+    margin-bottom: 30px;
 }
 .bio-block {
     display: inline-block;
