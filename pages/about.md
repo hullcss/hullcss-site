@@ -15,7 +15,7 @@ We're not just #hullCSS, we're <br>
 <div class="card mb-2" style="max-width: 20rem;">
   <div class="card-header white">Who are we?</div>
   <div class="card-body text-secondary">
-    <p class="card-text">We're the new official student-run Computer Science Society at Hull, set up with the aim of:  <br>
+    <p class="card-text">We're the student-run Computer Science Society at Hull, set up with the aim of:  <br>
     <blockquote class="blockquote blockquotesmall">
 Providing engaging and academically supporting activities and events for students with an interest in Computing
     </blockquote>
