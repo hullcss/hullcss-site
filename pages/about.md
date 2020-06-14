@@ -33,23 +33,27 @@ Providing engaging and academically supporting activities and events for student
     <table>
       <tr>
         <td class="font-weight-bold text-right">President</td>
-        <td class="pl-2"><a href="https://na.thaniel.uk/" target="_blank">Nathaniel Read</a></td>
+        <td class="pl-2">Jordan Coaten</td>
       </tr>
       <tr>
         <td class="font-weight-bold text-right">Vice President</td>
-        <td class="pl-2"><a href="https://www.elletownsend.co.uk/" target="_blank">Elle Townsend</a></td>
+        <td class="pl-2">Ben Cross</td>
       </tr>
       <tr>
         <td class="font-weight-bold text-right">Treasurer</td>
-        <td class="pl-2">Dan Tregoiing</td>
+        <td class="pl-2">TBC</td>
       </tr>
       <tr>
-        <td class="font-weight-bold text-right">Social</td>
-        <td class="pl-2"><a href="https://kurtisthrasher.co.uk/" target="_blank">Kurtis Thrasher</a></td>
+        <td class="font-weight-bold text-right">Social Secretary</td>
+        <td class="pl-2">Kieran Robson</td>
       </tr>
       <tr>
         <td class="font-weight-bold text-right">Outreach Officer</td>
-        <td class="pl-2"><a href="https://adamt3d.com/" target="_blank">Adam Tunicliffe</a></td>
+        <td class="pl-2">Tom O'Neil</td>
+      </tr>
+      <tr>
+        <td class="font-weight-bold text-right">Webmaster</td>
+        <td class="pl-2">Harvey Connolly</td>
       </tr>
     </table>
   </div>
