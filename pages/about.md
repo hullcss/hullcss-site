@@ -48,7 +48,7 @@ Providing engaging and academically supporting activities and events for student
         <td class="pl-2">Kieran Robson</td>
       </tr>
       <tr>
-        <td class="font-weight-bold text-right">Outreach Officer</td>
+        <td class="font-weight-bold text-right">Outreach</td>
         <td class="pl-2">Tom O'Neil</td>
       </tr>
       <tr>
