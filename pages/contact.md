@@ -13,8 +13,8 @@ description: "Contact hullCSS whether you're a member or wanting to become one, 
   <div class="card-body text-secondary">
     <p class="card-text ">Whether you're already a member or looking to become one, message us and we'll be happy to answer any questions</p>
     <br>
-    <a href="mailto:team@hullcss.org" class="btn btn-success">Email us</a>
-    <a href="mailto:team@hullcss.org" class="btn btn-success">Messenger</a>
+    <a href="mailto:hullcss@hull.ac.uk" class="btn btn-success">Email us</a>
+    <a href="https://www.facebook.com/hullCSS" class="btn btn-success">Messenger</a>
 
   </div>
 </div>
@@ -25,7 +25,7 @@ description: "Contact hullCSS whether you're a member or wanting to become one, 
   <div class="card-header white">Partnership Enquiries</div>
   <div class="card-body text-secondary">
     <p class="card-text ">Quickly connect to Hull's Computer Scientists. <br>Whether you're looking for industrial placement students just to say 'Hi!', we can put you in touch </p>
-    <a href="mailto:team@hullcss.org" class="btn btn-success">Email us</a>
+    <a href="mailto:hullcss@hull.ac.uk" class="btn btn-success">Email us</a>
 
   </div>
 </div>
@@ -36,7 +36,7 @@ description: "Contact hullCSS whether you're a member or wanting to become one, 
   <div class="card-header white">Press or other Enquiries</div>
   <div class="card-body text-secondary">
     <p class="card-text">Need us to give a comment, or just have a chat about something else? </p><br><br><br>
-    <a href="mailto:team@hullcss.org" class="btn btn-success">Email us</a>
+    <a href="mailto:hullcss@hull.ac.uk" class="btn btn-success">Email us</a>
 
   </div>
 </div>
