@@ -33,27 +33,23 @@ Providing engaging and academically supporting activities and events for student
     <table>
       <tr>
         <td class="font-weight-bold text-right">President</td>
-        <td class="pl-2">Jordan Coaten</td>
-      </tr>
-      <tr>
-        <td class="font-weight-bold text-right">Vice President</td>
-        <td class="pl-2">Ben Cross</td>
-      </tr>
-      <tr>
-        <td class="font-weight-bold text-right">Treasurer</td>
-        <td class="pl-2">TBC</td>
-      </tr>
-      <tr>
-        <td class="font-weight-bold text-right">Social Secretary</td>
         <td class="pl-2">Kieran Robson</td>
       </tr>
       <tr>
-        <td class="font-weight-bold text-right">Outreach</td>
-        <td class="pl-2">Tom O'Neil</td>
+        <td class="font-weight-bold text-right">Vice President</td>
+        <td class="pl-2">Hayley Elahee</td>
       </tr>
       <tr>
-        <td class="font-weight-bold text-right">Webmaster</td>
-        <td class="pl-2">Harvey Connolly</td>
+        <td class="font-weight-bold text-right">Treasurer</td>
+        <td class="pl-2">Toby Maynard</td>
+      </tr>
+      <tr>
+        <td class="font-weight-bold text-right">Social Secretary</td>
+        <td class="pl-2">Awen Hughes</td>
+      </tr>
+      <tr>
+        <td class="font-weight-bold text-right">Outreach</td>
+        <td class="pl-2">Gabriel Olteanu</td>
       </tr>
     </table>
   </div>
