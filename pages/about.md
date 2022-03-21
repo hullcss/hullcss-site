@@ -48,8 +48,12 @@ Providing engaging and academically supporting activities and events for student
         <td class="pl-2">Awen Hughes</td>
       </tr>
       <tr>
-        <td class="font-weight-bold text-right">Outreach</td>
+        <td class="font-weight-bold text-right">Outreach Officer</td>
         <td class="pl-2">Gabriel Olteanu</td>
+      </tr>
+       <tr>
+        <td class="font-weight-bold text-right">Publicity Officer</td>
+        <td class="pl-2">Elle Richards</td>
       </tr>
     </table>
   </div>
