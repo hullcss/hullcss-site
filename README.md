@@ -9,7 +9,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Authors
 
 * [itisNathaniel](https://github.com/itisNathaniel) - Initial Site Creation, Design and Content
-* [Kieran Robson](https://github.com/KieranRobson) - President / Maintainer 2021 /22
+* [Kieran Robson](https://github.com/KieranRobson) - President / Maintainer 2021/22
 
 ## License
 
